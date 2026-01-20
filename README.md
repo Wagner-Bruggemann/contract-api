@@ -95,7 +95,7 @@ sequenceDiagram
 ⬜ Versionamento de contratos  
 ⬜ Validação de regras de negócio  
 ⬜ Integração via API REST  
-⬜ Assinatura digital 
+⬜ Assinatura digital   
 ⬜ Auditoria e histórico de alterações  
 
 # 🛠️ Tecnologias Utilizadas
@@ -221,4 +221,4 @@ Os commits devem refletir o branch em que a alteração foi feita:
 ### Maicon Jordan Rocha
 
 ---
-<p align="center"> 🚀 <i>Construído com foco em qualidade, arquitetura e evolução contínua</i> </p> ```
+<p align="center"> 🚀 <i>Construído com foco em qualidade, arquitetura e evolução contínua</i> </p> 
